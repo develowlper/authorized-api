@@ -1,0 +1,9 @@
+{
+  "name": "authorized-api",
+  "version": "0.0.1",
+  "description": "example for api with authorization",
+  "main": "app.js",
+  "repository": "[githuburl]",
+  "author": "develowlper <dev@develowlper.de>",
+  "license": "MIT"
+}
